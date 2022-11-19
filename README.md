@@ -1,4 +1,4 @@
 # OwnCludProxyServer
 
 # Deploy Directo (Heroku)
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reymichel2009/Subidas_Canal)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pedro1287/repotema2)
